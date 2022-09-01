@@ -4,6 +4,6 @@ NPM     : 2106750351
 
 Kelas   : E
 
-Hobi    : Gaming
+Hobi    : Menggambar
 
 Makanan Favorit : Nasi Goreng
